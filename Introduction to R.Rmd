@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R Programming"
-author: "Sana Rasheed"
+author: "Yasir Saeed"
 date: "May 14, 2020"
 output: html_document
 ---
